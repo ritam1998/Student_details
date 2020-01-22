@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student</string>
+
+    <string name="class_name">Class List</string>
+    <string name="add_class">Add Class</string>
+
+    <string name="list_of_student">Student List</string>
+    <string name="student_register">New Registration</string>
+    <string name="update_detail">Update</string>
+
+    <string name="subject_add">Add Subject</string>
+    <string name="subject_list">Subject List</string>
+    <string name="update_subject">Update Subject</string>
+
+    <string name="teacher_list">Teacher List</string>
+    <string name="add_teacher">Add Teacher</string>
+</resources>
